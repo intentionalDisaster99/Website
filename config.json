@@ -1,21 +1,21 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Sam Whitlock",
+  "name": "Sam Whitlock",
+  "ascii": "Sam Whitlock",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "intentionalDisaster99",
+    "linkedin": "sam-whitlock-04a669358"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "scw0035@uah.edu",
+  "ps1_hostname": "sa9m.com",
+  "ps1_username": "guest",
+  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf", 
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "venmo": "https://paypal.me/cveinnt",
+    "coffee": "https://buymeacoffee.com/samwhitlock"
   },
+  "websiteRepo": "https://github.com/intentionalDisaster99/Website",
   "colors": {
     "light": {
       "background": "#FBF1C9",
